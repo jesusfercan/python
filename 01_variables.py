@@ -1,4 +1,5 @@
 # Variables
+
 '''
 - no se define el tipo de variable, esto va intrinseco
 - las variables en python se definen siempre en minusculas y para separar palabras se recomienda usar el barra baja _

@@ -1,3 +1,4 @@
+# Operadores aritmeticos y logicos
 """
 Los operadores son utilizados para realizar operarciones matematicas
 + - / * % etc
